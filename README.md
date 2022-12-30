@@ -1,2 +1,2 @@
 ## Deployment
-Deploy : https://achmadnr21.github.io/WebGL_Grafkom/
+Deploy : https://okyanawang.github.io/Kursi-Tampan_WebGL/
